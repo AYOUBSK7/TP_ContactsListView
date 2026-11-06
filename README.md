@@ -17,4 +17,3 @@ Application qui affiche une liste de contacts dans une ListView. On clique sur u
 | Liste triée | Sélection | Modification | Ajout |
 |:-:|:-:|:-:|:-:|
 | <img src="image/Screenshot_20261106_221904.png" width="170"> | <img src="image/Screenshot_20261106_221917.png" width="170"> | <img src="image/Screenshot_20261106_221950.png" width="170"> | <img src="image/Screenshot_20261106_222113.png" width="170"> |
-"# TP_ContactsListView" 
